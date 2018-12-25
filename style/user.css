@@ -1,0 +1,20 @@
+.tbhead
+{
+	background-color: #6B6766;
+	color: white;
+}
+/*USER TEXT*/
+.content
+{
+	padding:20px;
+}
+.top
+{
+	font-size: 30px;
+	color: #545454
+}
+.details
+{
+	font-size: 18px;
+	color: #030202;
+}

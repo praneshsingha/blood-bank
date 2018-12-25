@@ -1,0 +1,17 @@
+#items
+{
+	position: fixed;
+	display: block;
+	color: red;
+}
+.nav-link
+{
+	font-family: Kozuka Gothic Pro M;
+	font-weight: lighter;
+	font-size: 20px;
+	color: white;	
+}
+.nav-link
+{
+	cursor: pointer;
+}

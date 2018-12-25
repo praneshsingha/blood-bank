@@ -1,0 +1,68 @@
+/*body*/
+body,html
+{
+	font-family: Adobe Fangsong Std R;
+}
+
+/*header style*/
+.img-fix
+{
+	width: 100%;
+}
+.blood-text
+{
+	font-family: Bahnschrift SemiLight;
+	font-size: 400%;
+	margin-left: 25%;
+}
+.red
+{
+	color: #ee302d;
+}
+.back-red
+{
+	background-color: #ee302d;
+	color: white;
+}
+.back-red:hover
+{
+	background-color: white;
+	text-decoration: none;
+	color: #ee302d;
+	border: 1px solid #ee302d;
+}
+.bod-45
+{
+  	transform: skew(45deg);
+  	background-color: #ee302d;
+}
+/*section 2 */
+.sec-2-text
+{
+	color: #ee302d;
+	font-size: 20px;
+	position: absolute;
+}
+/*bloods details style*/
+.blood-detls
+{
+	background-color: #FFFFFF;
+}
+.blood-detls:hover
+{
+	box-shadow: 0px 0px 20px 1px;
+	position: relative;
+	left: 10px;
+	border:none;	
+
+}
+.border-me
+{
+	border: 1px dashed #ee302d;
+	padding: 10px;
+}
+/*blood sample image css*/
+.sample-img
+{
+	width: 100%;
+}

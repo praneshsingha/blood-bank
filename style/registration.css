@@ -1,0 +1,30 @@
+#user-btn
+{
+	background-color: black;
+	color: white;
+}
+.my-btn
+{
+	border: 1px solid #ee302d;
+	padding: 10px;
+	color: #ee302d;
+	background-color: white;
+}
+.my-btn:hover
+{
+	text-decoration: none;
+	background-color: #ee302d;
+	color: white;
+}
+.back-red-reg
+{
+	background-color: #ee302d;
+	color: white;
+}
+.back-red-reg:hover
+{
+	background-color: white;
+	text-decoration: none;
+	color: #ee302d;
+	border: 1px solid #ee302d;
+}
